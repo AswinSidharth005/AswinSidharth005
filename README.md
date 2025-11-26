@@ -27,6 +27,8 @@ I am Aswin Sidharth, a versatile Full Stack Developer with expertise in Java, Sp
 <a href="http://www.github.com/AswinSidharth005"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AswinSidharth005&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/AswinSidharth005" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AswinSidharth005&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/930f79c7-4d57-41df-9f31-c23735cfadf0" />
+
 
 
 
